@@ -1,8 +1,8 @@
-- se nao tiver preenchido nos Premios, quer dizer que nao tem premio
-- FirstPolYear > BirthYear?
-- SumPremios < MonthSal?
-- Alguma idade minima para ter um seguro?
+- se nao tiver preenchido nos Premios, quer dizer que nao tem premio. MANDAR MAIL
+- FirstPolYear < BirthYear? mandar mail 
+- Alguma idade minima para ter um seguro? vida e saude faz sentido. casa, carro e trabalho nao faz. temos de cruzar
 - ClaimsRate é respetivo aos ultimos 2 anos. normalizar. 
-- Premios sao anuais. normalizar
 - ter atencao aos premios negativos, como entram no claimsRate
+	normalizar todos os prémios e os salario para 2 anos
+- taxa de esforço
 - 
