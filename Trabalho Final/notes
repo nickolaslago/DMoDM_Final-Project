@@ -1,0 +1,8 @@
+- se nao tiver preenchido nos Premios, quer dizer que nao tem premio
+- FirstPolYear > BirthYear?
+- SumPremios < MonthSal?
+- Alguma idade minima para ter um seguro?
+- ClaimsRate é respetivo aos ultimos 2 anos. normalizar. 
+- Premios sao anuais. normalizar
+- ter atencao aos premios negativos, como entram no claimsRate
+- 
